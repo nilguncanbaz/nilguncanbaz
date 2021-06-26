@@ -31,7 +31,7 @@ I'm curious about web technology and generally developing sofware with React.js 
 
 </p>
 <p><img alt='nilguncanbaz' align='left' src='https://github-readme-stats.vercel.app/api?username=nilguncanbaz&show_icons=true&theme=gruvbox'/></p>
-<p>&nbsp;<img alt='nilguncanbaz'  align='cernter'  width=43% src='https://github-readme-stats.vercel.app/api/top-langs/?username=nilguncanbaz&layout=compact'/></p>
+<p>&nbsp;<img alt='nilguncanbaz'  align='cernter'  width=40% src='https://github-readme-stats.vercel.app/api/top-langs/?username=nilguncanbaz&layout=compact'/></p>
 
 
 <!--
