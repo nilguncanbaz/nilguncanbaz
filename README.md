@@ -30,8 +30,8 @@ I'm curious about web technology and generally developing sofware with React.js 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 
 </p>
-<p><img alt='nilguncanbaz' align='left' src='https://github-readme-stats.vercel.app/api?username=nilguncanbaz&show_icons=true&theme=gruvbox'/></p>
-<p>&nbsp;<img alt='nilguncanbaz'  align='cernter'  width=40% src='https://github-readme-stats.vercel.app/api/top-langs/?username=nilguncanbaz&layout=compact'/></p>
+<p><img alt='nilguncanbaz' align='left' height="175px" src='https://github-readme-stats.vercel.app/api?username=nilguncanbaz&show_icons=true&theme=gruvbox'/></p>
+<p><img alt='nilguncanbaz'  align='cernter'height="175px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=nilguncanbaz&layout=compact'/></p>
 
 
 <!--
