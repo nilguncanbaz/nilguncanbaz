@@ -4,12 +4,6 @@
 <p>I'm 24 years old. I'm Software Developer. I like coding, reading book, to traveling, listening music and taking photos.
 I'm curious about web technology and generally developing sofware with React.js from front-end, .Net Core MVC and PHP Frameworks from back-end languages.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nilgün-canbaz-a81b53173/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cengizcmataraci" height="30" width="30" /></a>
-<a href="https://medium.com/@nilguncanbaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cengizcmataraci" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
